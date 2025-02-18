@@ -6,8 +6,8 @@ load_dotenv()
 llm = OpenAI()
 chat_model = ChatOpenAI()
 
-# input_text = "Hello, I'm Aiden."
-input_text = "안녕하세요. 저는 에이든입니다."
+# input_text = "Hello, I'm MinKyung."
+input_text = "안녕하세요. 저는 민경입니다."
 
 # print(llm.invoke(input_text))
 # print("---")
